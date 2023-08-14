@@ -5,7 +5,8 @@
   
 - Faremos um levantamento sobre os preços dos combustíveis nos meses de "maio e junho de 2023"
 para a Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP) nas diferentes
-regiões do Brasil, os dados foram coletados do site (https://www.gov.br/pt-br) para
+regiões do Brasil, os dados foram coletadosdo site:
+(https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis) para
 fazer uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
 
 ## Funcionalidade  ⚙️
