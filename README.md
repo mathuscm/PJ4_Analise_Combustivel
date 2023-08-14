@@ -22,10 +22,12 @@ como geração de gráficos para uma melhor visualização
 </table>
 
 ## Bibliotecas 📚
+```bash
 - import pandas as pd
 - import numpy as np
 - import matplotlib.pyplot as plt
 - import seaborn as sns
+```
 
 ## Como usar 🔌
 1. Baixar o repositorio
