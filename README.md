@@ -38,12 +38,14 @@ Pergunta extra 1. O que justifica a média dos preços dos estados do norte sere
 
 Pergunta extra 2. Qual a Bandeira que possui o maior preço para a gasolina e para o etanol?
 
-# INSIGHTS
+---
+## INSIGHTS
 
 Com base nas questões acima os insights serão direcionados de maneira investigativa examinando as premissas de seus resultados,
 suas correlações, afinidades geográficas e políticas de preço.
 
-# CONLUINDO
+---
+## CONLUINDO
 
 Para o setor de Biocombustíveis a análise de dados é extremamente importante para mapear as interferências, motivações e comportamento dos dados
 de abastecimento, ainda mais levando em consideração que os resultados servem de base para a sociedade de consumo dos combustíveis se informarem dos eventos e do andamento das quedas e altas dos preços,
