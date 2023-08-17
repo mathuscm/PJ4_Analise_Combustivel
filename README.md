@@ -55,12 +55,7 @@ cerca de [36Mi de brasileiros têm carro](https://www.em.com.br/app/noticia/econ
 
 ## Ferramentas Utilizadas 🛠️
 
-<table>
-  <tr>    
-    <td>Python 3</td>    
-    <td>Colab</td>     
-  </tr> 
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## Bibliotecas 📚
 ```bash
