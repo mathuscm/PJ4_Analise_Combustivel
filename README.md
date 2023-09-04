@@ -82,6 +82,5 @@ Gestor de Conhecimento: [Josean Borges](https://www.linkedin.com/in/joseanplborg
 
 Gestor de Gente e Engajamento: [Matheus S Cordaro](https://www.linkedin.com/in/mscordaro/)
 
-Colaborador: [Helder Fernandes](https://www.linkedin.com/in/helder-fernandes-data/)
 
 
